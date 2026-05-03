@@ -33,18 +33,13 @@ Visualizations
 ## 🥧 Payment Method Distribution
 ![Payment](images/payment.png)
 
-
- Important Points Discussed
-
-* Food & Beverages line sold the most
-* Health & Beauty line sold the least
-* Highest sales in Month 1
-* Sales decrease in Month 2 but rise in Month 3
-* The most popular payment method is e-wallet
-
+## 🔹 Key Insights
+- Food & beverages has the highest sales
+- Health & beauty has the lowest sales
+- Sales drop in Month 2 and recover in Month 3
+- E-wallet is the most used payment method
+  
  Conclusion
 
 This project illustrates how data analysis can be leveraged for gaining insights about sales data and consumer behavior.
-
-
 This project showcases how data analysis can provide valuable insights from sales data.
