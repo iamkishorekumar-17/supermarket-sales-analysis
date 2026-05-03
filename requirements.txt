@@ -1,3 +1,9 @@
-pandas
-matplotlib
-seaborn
+## 🔹 Tools Used
+- Python
+- Pandas
+- Matplotlib
+
+## 🔹 Project Structure
+- data → dataset  
+- notebook → analysis code  
+- images → visualizations  
