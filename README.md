@@ -24,16 +24,13 @@ Structure of the Project
 
 Visualizations
 
- 📊 Sales by Product Line
-
+## 📊 Sales by Product Line
 ![Sales](images/sales_product.png)
 
-📈 Sales Trend by Month
-
+## 📈 Monthly Sales Trend
 ![Monthly](images/monthly_sales.png)
 
-🥧 Popular Payment Methods
-
+## 🥧 Payment Method Distribution
 ![Payment](images/payment.png)
 
 
